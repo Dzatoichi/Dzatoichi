@@ -1,4 +1,4 @@
-# Привет, я [Данила](https://github.com/Dzatoichi) 👋
+# Привет, я [Данила](https://github.com/Dzatoichi)
 
 ### Студент Программной Инженерии 🇷🇺
 
