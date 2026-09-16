@@ -20,6 +20,7 @@
 | ---- | ------ | --- | ---- |
 | 2025 | [parking_system](https://github.com/Dzatoichi/parking_system) — распределённая микросервисная система интеллектуального управления парковочным пространством с компьютерным зрением, веб-интерфейсом и мобильным приложением | Microservices + Web + Mobile | Python, FastAPI, React, React Native, TypeScript, PostgreSQL, Docker, Nginx, CV |
 | 2025 | [supvz](https://github.com/Dzatoichi/supvz) — система управления пунктами выдачи заказов | Microservices + REST API | Python, FastAPI, Docker |
+| 2026 | [constraintBS](https://github.com/Dzatoichi/constraintBS) — backend-сервис бронирования отелей с поиском доступных номеров, управлением отелями и номерами, а также системой бронирований и отмен | Modular Monolith + REST API | Python, FastAPI, SQLAlchemy, PostgreSQL, Alembic, Pydantic, Docker, uv |
 
 ---
 
